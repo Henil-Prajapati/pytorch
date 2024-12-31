@@ -82,7 +82,7 @@ Develop a sound classification system using audio spectrograms.
 
 Access the Notebook
 
-To see these concepts in action, check out my detailed notebook here: [Insert link to notebook]. This hands-on guide provides ready-to-run code and explanations to help you integrate PyTorch libraries into your projects.
+To see these concepts in action, check out my detailed notebook. This hands-on guide provides ready-to-run code and explanations to help you integrate PyTorch libraries into your projects.
 
 Why PyTorch Libraries Matter
 
